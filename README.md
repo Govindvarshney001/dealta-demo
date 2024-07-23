@@ -1,1 +1,1 @@
-# dealta-demo
+# delta-demo
